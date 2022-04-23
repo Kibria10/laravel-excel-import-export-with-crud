@@ -1,0 +1,2 @@
+Name,Email,Password
+Maharab ,junak@gmail.com,12345
